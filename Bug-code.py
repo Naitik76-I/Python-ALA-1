@@ -28,7 +28,7 @@ while i < n
 
      i = i + 1
 
-  verage = total / count
+  average = total / count
   
 print("Total:", total)
 print("Average:", average)
